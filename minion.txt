@@ -21,4 +21,4 @@ if __name__ == '__main__':
     s = input()
     minion_game(s)
 
-print(000)
+print(111)
