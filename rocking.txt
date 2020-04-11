@@ -1,0 +1,12 @@
+tenant=renter man
+
+rocking chairs
+lampshade 
+chugging champion
+
+ print max number
+input=57326467
+output=77665432
+
+sam
+dan
