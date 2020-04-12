@@ -22,4 +22,4 @@ if __name__ == '__main__':
     minion_game(s)
 
 print(111)
-print(000)
+print(222)
